@@ -10,5 +10,7 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-youtube",
-  "hubot-voting"
+  "hubot-voting",
+  "hubot-caniuse",
+  "hubot-nationalrail"
 ]
