@@ -13,5 +13,6 @@
   "hubot-caniuse",
   "hubot-trollbot",
   "hubot-spotify-me",
-  "hubot-standup-alarm"
+  "hubot-standup-alarm",
+  "hubot-asana"
 ]

@@ -24,7 +24,8 @@
     "hubot-standup-alarm": "0.0.4",
     "hubot-trollbot": "^0.1.1",
     "hubot-voting": "^1.0.0",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "hubot-asana": "^1.0.1"
   },
   "engines": {
     "node": "0.10.x"
