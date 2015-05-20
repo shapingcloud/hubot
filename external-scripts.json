@@ -11,5 +11,7 @@
   "hubot-youtube",
   "hubot-voting",
   "hubot-caniuse",
-  "hubot-trollbot"
+  "hubot-trollbot",
+  "hubot-spotify-me",
+  "hubot-standup-alarm"
 ]
